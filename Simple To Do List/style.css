@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document for Simple To Do List*/
+
+body {
+	font-family: Helvetica;
+	color: #202020;
+	background: #F8F8F8 ;
+}
+
+#page-wrapper {
+ 	width: 300px;
+  	margin: 2.5em auto;
+  	border-radius: 3px;
+}
+
+#new_task {
+	width: 300px;
+	border-style: inset;
+	font-size: 1.5em;
+	
+}
+
+#task_list {
+	font-family: Helvetica;
+	width: 290px;
+	list-style: none;
+	font-size: 1.0em;
+	padding: 0.5em;
+	border-radius: 4px;
+	background: #FFFFFF;
+	margin: 0.9em, 0;
+}
